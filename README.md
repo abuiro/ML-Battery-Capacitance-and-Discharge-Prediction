@@ -1,0 +1,1 @@
+Compares ML models to best predict battery capacitance and discharge based on research data. There are some errors that are left for user view and will be changed when UV synthesis (next research project) will be predicted with other ML models. This is mostly a draft.
